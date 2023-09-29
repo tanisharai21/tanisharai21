@@ -17,18 +17,15 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Hi 👋, I'm Tanisha Rai</h1>
-<h3 align="center">A passionate developer who loves to explore, learn and grow.</h3>
+<h3 align="center">A passionate developer who loves exploring, learning, and growing.</h3>
 <img align="right" alt="coding" width="200" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tanisharai21&label=Profile%20views&color=0e75b6&style=flat" alt="tanisharai21" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanisharai21" alt="tanisharai21" /></a> </p>
 
 - 🌱 I’m currently learning **Frontend Development**
 
 - 📝 I sometime write articles on [https://medium.com/@tanisharai](https://medium.com/@tanisharai)
 
-- 💬 Ask me about **Data structure and Algorithms, OOPs,HTML,CSS,JavaScript**
+- 💬 Ask me about **Data structure and Algorithms, OOPs, HTML,CSS, JavaScript**
 
 - 📫 How to reach me **raitanisha043@gmail.com**
 
