@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 
 - I’m a **Frontend Developer** with 2+ years of experience building responsive, high-performance web applications. Skilled in JavaScript, modern frontend technologies, and creating intuitive user interfaces that enhance user experience.
 
-- 💬 Ask me about **Data structure and Algorithms, OOPs, HTML,CSS, JavaScript, React.js**
+- Ask me about **Data structure and Algorithms, OOPs, HTML,CSS, JavaScript, React.js**
 
-- 📫 How to reach me **raitanisha043@gmail.com**
+- How to reach me **raitanisha043@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
