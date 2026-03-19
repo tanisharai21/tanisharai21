@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <img align="right" alt="coding" width="200" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
 
-- 🌱 I’m a **Frontend Developer** with 2+ years of experience building responsive, high-performance web applications. Skilled in JavaScript, modern frontend technologies, and creating intuitive user interfaces that enhance user experience.
+- I’m a **Frontend Developer** with 2+ years of experience building responsive, high-performance web applications. Skilled in JavaScript, modern frontend technologies, and creating intuitive user interfaces that enhance user experience.
 
 - 💬 Ask me about **Data structure and Algorithms, OOPs, HTML,CSS, JavaScript, React.js**
 
