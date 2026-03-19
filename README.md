@@ -21,8 +21,6 @@ Here are some ideas to get you started:
 
 - 🌱 I’m a **Frontend Developer**
 
-- 📝 I sometime write articles on [https://medium.com/@tanisharai](https://medium.com/@tanisharai)
-
 - 💬 Ask me about **Data structure and Algorithms, OOPs, HTML,CSS, JavaScript, React.js**
 
 - 📫 How to reach me **raitanisha043@gmail.com**
