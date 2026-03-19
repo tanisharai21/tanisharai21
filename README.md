@@ -42,11 +42,16 @@ Here are some ideas to get you started:
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanisharai21&show_icons=true&locale=en&layout=compact" alt="tanisharai21" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tanisharai21&layout=compact" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanisharai21&show_icons=true&locale=en" alt="tanisharai21" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tanisharai21&show_icons=true" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanisharai21&" alt="tanisharai21" /></p>
-![image](https://github.com/tanisharai21/tanisharai21/assets/63851629/fc0078d4-8c15-4345-b8dc-b98dc1ff89d9)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanisharai21" />
+</p>
 
 
