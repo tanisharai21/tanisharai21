@@ -29,7 +29,6 @@ Here are some ideas to get you started:
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/tanisha-rai-03a473193/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tanisha-rai-03a473193/" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/Tanisha12/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Leetcode" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/raitanisha043/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/raitanisha043/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
